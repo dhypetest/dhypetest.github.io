@@ -1,0 +1,7 @@
+ul.navbar{
+list-style-type:none;
+margin:0;
+}
+li.active{
+background-color: #66ccff;
+color: #00314d;
